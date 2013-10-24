@@ -1,3 +1,11 @@
+## assert\_same is now called assert\_value
+
+**Important Announcement:** assert\_same is renamed to assert\_value because it conflicts with stock ruby assert\_same assertion. This is the new [assert\_value repository](http://github.com/acunote/assert_value).
+
+
+
+## Deprecated Functionality:
+
 assert_same
 ===========
 
